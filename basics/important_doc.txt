@@ -1,0 +1,4 @@
+REPL:Read Evaluate Print Loop
+Multiline comment in python can be given as '''comments '''
+Variable and Datatypes
+type(a)
